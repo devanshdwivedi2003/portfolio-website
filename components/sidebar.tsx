@@ -1,7 +1,7 @@
 "use client"
 
 import { motion } from "framer-motion"
-import { Mail, Phone, MapPin, Calendar, Download } from "lucide-react"
+import { Mail, Phone, MapPin, Download } from "lucide-react"
 import { Button } from "@/components/ui/button"
 import { FaLinkedin, FaTwitter, FaGithub } from "react-icons/fa";
 
@@ -34,7 +34,7 @@ export default function Sidebar() {
           className="w-32 h-32 mx-auto mb-4 rounded-2xl overflow-hidden bg-gradient-to-br from-yellow-400 to-orange-500"
         >
           <img
-            src="profile.jpg"
+            src="Profile.jpg"
             alt="Profile"
             className="w-full h-full object-cover"
           />

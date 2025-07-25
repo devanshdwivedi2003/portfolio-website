@@ -18,7 +18,7 @@ const projects = [
     id: 2,
     title: "Awwards video game ",
     category: "Frontend project",
-    image: "awwards-video-game.jpg",
+    image: "Awwards-video-game.jpg",
     link: "https://awwards-video-game.vercel.app", // Added https://
   },
   {
