@@ -41,7 +41,7 @@ export default function Sidebar() {
         </motion.div>
         <h1 className="text-2xl font-bold mb-2">Devansh Dwivedi</h1>
         <p className="text-yellow-400 bg-gray-700 px-3 py-1 rounded-lg text-sm inline-block">
-          Full Web Developer
+          Full Stack Web Developer
         </p>
       </div>
 
